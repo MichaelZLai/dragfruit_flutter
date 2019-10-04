@@ -37,6 +37,6 @@ flutter run -d [mobile_device_id]
 
 * **Michael Lai**
 * **David Dai**
-* **Angela Sun**
 * **Jerry Shen**
 * **Difei Lu**
+* **Angela Sun**
